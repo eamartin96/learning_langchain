@@ -1,0 +1,3 @@
+[submodule "langchain_private"]
+	path = langchain_private
+	url = https://github.com/eamartin96/langchain_private.git
